@@ -276,6 +276,9 @@
 /turf/open/indestructible/ground/outside/dirt/fertile/sandcorner
 	icon_state = "dirt_fertile_sandcorner"
 
+/turf/open/indestructible/ground/outside/dirt/fertile/dirtmerger
+	icon_state = "dirt_fertile_dirtmerge"
+
 /obj/effect/overlay/dirt/fertile_side
 	icon_state = "dirt_fertileside"
 
